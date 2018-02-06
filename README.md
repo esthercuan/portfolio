@@ -1,18 +1,5 @@
-<<<<<<< HEAD
-# portfolio
-A personal portfolio for me
-=======
-# gatsby-starter-default
-The default Gatsby starter
+# Esther's portfolio
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/)
+This is a simple portfolio for me to be able to deploy and keep track of my resume, interview challenges, development-related journal entries, etc.
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-```
-gatsby new gatsby-example-site
-```
-
-## Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
->>>>>>> first commit
+This was built with love using Gatsby.
