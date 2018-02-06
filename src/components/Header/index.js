@@ -21,7 +21,7 @@ const Header = () => (
         padding: '1.45rem 2.087rem'
       }}
     >
-      <Link to="/" style={{ fontSize: '1.4em' }}>
+      <Link to="/" style={{ fontSize: '1.4em', color: Colors.darkblue }}>
         esther cuan
       </Link>
       <Link to="/resume" style={{ fontSize: '1.4em' }}>

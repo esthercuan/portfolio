@@ -2,7 +2,7 @@ import React from 'react'
 import Link from 'gatsby-link'
 
 const Resume = ({ data }) => {
-  const { html } = data.allMarkdownRemark.edges[0].node
+  const { html } = data.allMarkdownRemark.edges[1].node
   return (
     <div>
       <div dangerouslySetInnerHTML={{ __html: html }} />

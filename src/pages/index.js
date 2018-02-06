@@ -32,7 +32,7 @@ const Welcome = styled.div`
 `
 
 const IndexPage = ({ data }) => {
-  const { html, headings } = data.allMarkdownRemark.edges[1].node
+  const { html, headings } = data.allMarkdownRemark.edges[0].node
   return (
     <div>
       <Boo src={Me} />
